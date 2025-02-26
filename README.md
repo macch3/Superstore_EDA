@@ -45,7 +45,7 @@ Sales distribution across different cities and states shows that certain regions
 
 #### 📂 File Structure
 - `Superstore_RawData_Original.xlsx` → Raw dataset.
-- `Cleaned_Superstore_RawData_Original.xlsx.csv` → Processed dataset after data cleaning.
+- `Superstore_Cleaned.xlsx` → Processed dataset after data cleaning.
 - README.md
   
 #### 📢 Final Reports & Dashboard
